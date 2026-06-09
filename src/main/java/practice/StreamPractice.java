@@ -3,10 +3,8 @@ package practice;
 import java.util.Arrays;
 import java.util.List;
 import java.util.NoSuchElementException;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-
 import model.Candidate;
 import model.Cat;
 import model.Person;
